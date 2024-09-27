@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Cómo estás
 ajsaj
 sj
 asj
 a
+=======
+Cómo estásfefefefefefs
+>>>>>>> novel/ede
